@@ -310,7 +310,7 @@ public class MainActivity extends AppCompatActivity {
 
                 double distance = distanceBetween(myLat, myLng, lat, lng);
 
-                if (distance <= 0.007) {
+                if (distance <= 0.01) {
 
                     String imageUrl = doc.getString("imageUrl");
                     if (imageUrl == null) imageUrl = "";
