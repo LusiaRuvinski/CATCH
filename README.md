@@ -78,7 +78,7 @@ Backend:
 * Users decide which social media accounts to share.
 
 Images:
-<img width="945" height="2048" alt="image" src="https://github.com/user-attachments/assets/28a9aaaf-1e0a-4540-934a-083ce925adf2" />
+<img width="280" height="2048" alt="image" src="https://github.com/user-attachments/assets/28a9aaaf-1e0a-4540-934a-083ce925adf2" />
 
 
 
