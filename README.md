@@ -21,14 +21,14 @@ CATCH was created to reduce this barrier by allowing users to discover nearby pe
 
 ✨ Features
 
-🔐 Secure user authentication using Firebase Authentication
-📍 Real-time nearby user discovery using GPS
-👤 User profile creation and customization
-🌐 Direct links to social media accounts
-🎯 Filter nearby users by age and gender
-👀 Live location synchronization through Firebase Cloud Firestore
-🔒 Privacy controls, including the ability to hide location
-🖼 Profile image upload
+🔐 Secure user authentication using Firebase Authentication,
+📍 Real-time nearby user discovery using GPS,
+👤 User profile creation and customization,
+🌐 Direct links to social media accounts,
+🎯 Filter nearby users by age and gender,
+👀 Live location synchronization through Firebase Cloud Firestore,
+🔒 Privacy controls, including the ability to hide location,
+🖼 Profile image upload,
 ⚡ Fast refresh of nearby users
 
 
