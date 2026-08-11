@@ -87,8 +87,8 @@ Images:
 
 video:
 
-<img width="320" height="693" alt="WhatsAppVideo2026-08-11at15 33 05-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f64c10b5-6890-4bf6-bab3-6daf139a90c9" />
-
+https://drive.google.com/file/d/1LaksO4k9xONs2WUe-4wzLHfQk6e7j-nP/view?usp=sharing
+https://drive.google.com/file/d/1rH47rkLpiWKvzpt3nKRQKjVs5AeIdXMU/view?usp=sharing
 
 
 
